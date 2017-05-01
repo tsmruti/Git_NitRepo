@@ -5,9 +5,6 @@ public class sample {
 		System.out.println("hi");
 		System.out.println("hello");
 		System.out.println("hello2222");
-		System.out.println("hello222222333");
-		System.out.println("hello2222");
-		System.out.println("22224357689rt5756868i60");
 	}
 }
 
